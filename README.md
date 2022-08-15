@@ -1,6 +1,4 @@
 
-Responsive ecommerce website with html css and javascript.
-
 Features/ Dependencies:
 
 - Responsive triple header / navbar with toggle menu bar effect.
@@ -11,3 +9,7 @@ Features/ Dependencies:
 
 - Responsive banner, shop, product, form and footer with card section with flexbox.
 
+Resources:
+Scroll event in JS: https://www.youtube.com/watch?v=V9CY0F4Wc7M
+ClassList: https://developer.mozilla.org/es/docs/Web/API/Element/classList
+SwiperJS: https://swiperjs.com/get-started
