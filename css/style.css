@@ -71,13 +71,13 @@ html {
 
 .header-1 span {
     font-weight: lighter;
-    color: #fff;
+    color: rgb(100, 98, 98);
     font-size: 1.7rem;
 }
 
 .header-1 a {
     padding: 0 .7rem;
-    color: #fff;
+    color: rgb(80, 78, 78);
     font-size: 2rem;
 }
 
@@ -500,9 +500,9 @@ html {
     position: absolute;
     top: 0;
     right: 0;
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .3);
+    box-shadow: 0 .5rem 1rem rgba(8, 8, 8, 0.3);
     z-index: 10000;
-    background: rgba(117, 101, 2, 0.1);
+    background: rgba(9, 8, 8, 0.1);
     color: var(--gold);
     font-size: 2.5rem;
     padding: .5rem 1rem;
@@ -516,7 +516,7 @@ html {
     flex-flow: column;
     border-radius: 0 0 5rem 5rem;
     padding: .5rem;
-    background: rgba(92, 91, 91, 0.905);
+    background: rgba(29, 29, 29, 0.905);
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .3);
 }
 
@@ -534,7 +534,7 @@ html {
 }
 
 .product .box-container .box .icons a:hover {
-    color: rgba(93, 93, 91, 0.905);
+    color: rgba(21, 21, 20, 0.905);
     border-radius: 50%;
     background: #fff;
 }
@@ -562,7 +562,7 @@ html {
     font-size: 2rem;
     padding: .5rem;
     text-align: center;
-    border: .05rem solid gray;
+    border: .05rem solid rgb(24, 24, 24);
     background: rgba(0, 0, 0, .1);
 }
 
@@ -575,7 +575,7 @@ html {
 .product .box-container .box .price span {
     text-decoration: line-through;
     font-size: 1.5rem;
-    color: gray;
+    color: rgb(19, 19, 19);
 }
 
 .product .box-container .box .btn {
@@ -615,7 +615,7 @@ html {
 
 .icons-container .icon .content p {
     font-size: 1.5rem;
-    color: rgb(66, 65, 65);
+    color: rgb(18, 18, 18);
 }
 
 
@@ -739,7 +739,7 @@ html {
 .contact .row form .inputBox textarea:valid~label {
     top: -.1rem;
     font-size: 1.5rem;
-    color: #666;
+    color: rgb(15, 15, 15);
 }
 
 
@@ -861,8 +861,8 @@ html {
         text-align: center;
     }
     .header-3 .nav-bar a:hover {
-        background: rgba(96, 72, 8, 0.905);
-        color: rgb(84, 83, 83);
+        background: rgba(37, 37, 37, 0.905);
+        color: rgb(19, 18, 18);
     }
     .header-2 {
         flex-flow: column;
