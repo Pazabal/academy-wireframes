@@ -17,7 +17,7 @@
 }
 
 :root {
-    --gold: rgba(253, 205, 75, 0.905);
+    --gold: rgba(252, 252, 251, 0.905);
 }
 
 .heading {
@@ -88,7 +88,7 @@ html {
 .header-2 .logo {
     font-weight: bolder;
     font-size: 2.5rem;
-    color: rgba(96, 72, 8, 0.905);
+    color: rgba(252, 252, 251, 0.905);
 }
 
 .header-2 .logo i {
@@ -131,7 +131,7 @@ html {
 }
 
 .header-2 .serach-bar-container label:hover {
-    color: rgba(96, 72, 8, 0.905);
+    color: rgba(252, 252, 251, 0.905);
 }
 
 .header-3 {
@@ -516,7 +516,7 @@ html {
     flex-flow: column;
     border-radius: 0 0 5rem 5rem;
     padding: .5rem;
-    background: rgba(96, 72, 8, 0.905);
+    background: rgba(92, 91, 91, 0.905);
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .3);
 }
 
@@ -534,7 +534,7 @@ html {
 }
 
 .product .box-container .box .icons a:hover {
-    color: rgba(96, 72, 8, 0.905);
+    color: rgba(93, 93, 91, 0.905);
     border-radius: 50%;
     background: #fff;
 }
@@ -546,7 +546,7 @@ html {
 }
 
 .product .box-container .box .stars i {
-    color: rgba(96, 72, 8, 0.905);
+    color: rgba(66, 66, 65, 0.905);
     font-size: 2rem;
 }
 
