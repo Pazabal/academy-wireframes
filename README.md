@@ -1,27 +1,13 @@
 
-#Ecommerce-Website
+Responsive ecommerce website with html css and javascript.
 
-Complete responsive online ecommerce website design using html css and vanilla javascript.
+Features/ Dependencies:
 
-The main features of this website are:
-
-✔ Responsive sticky triple header / navbar with toggle menu bar effect.
+- Responsive triple header / navbar with toggle menu bar effect.
    
-✔ Responsive shopping cart box.
+- Responsive shopping cart box.
 
-✔ Responsive home with touch slider effect using swipper.js
+- Responsive home touch slider effect with swipper.js
 
-✔ Responsive banner card section using flexbox.
+- Responsive banner, shop, product, form and footer with card section with flexbox.
 
-✔ Responsive category card section using flexbox.
-
-✔ Responsive product card section using flexbox.
-
-✔ Responsive deal section with count down effect using flexbox.
-
-✔ Responsive and animated contact form section using flexbox.
-
-✔ Responsive footer section using flexbox.
-
-
-Key: #Website, #E-shop, #FrontEnd
