@@ -1,9 +1,9 @@
 
-#Plant-Selling-Ecommerce-Website
+#Ecommerce-Website
 
 Create a complete responsive online ecommerce website design for beginers using html css and vanilla javascript step by step.
 
-The main feature of this website are:
+The main features of this website are:
 
 ✔ Responsive sticky triple header / navbar with toggle menu bar effect.
    
@@ -23,6 +23,5 @@ The main feature of this website are:
 
 ✔ Responsive footer section using flexbox.
 
-Resource: https://www.youtube.com/watch?v=OQbgfxff06s
 
-Key: #Ecommerce-Website, #Plant-shop, #FrontEnd
+Key: #Website, #E-shop, #FrontEnd
